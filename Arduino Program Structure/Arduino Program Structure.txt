@@ -1,0 +1,14 @@
+Basic Structure:
+-> void setup() ( Any statement inside only executed for one time )
+-> void loop() ( Any statement inside executed for infinite times )
+
+
+Serial.begin(9600) --> Arduino can communicate with serial monitor
+
+# Normally arduino is connected with our laptop and serial monitor shows on the laptop's screen
+# 9600 means the bit rate by which arduino communicates with the computer
+
+
+Serial.print("Text") --> To print anything on the serial monitor
+
+Serial.println("Text") --> To print anything on the serial monitor along with a new line

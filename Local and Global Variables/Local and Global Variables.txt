@@ -1,0 +1,9 @@
+Local Variable:
+-> Variable which is only accesable by the function in which it is declared
+
+Global Variable:
+-> Variable which is accessable by all functions 
+
+# In Arduino function name and variable name can be same for local variables
+# Local Variable and Global variable can share same name in Arduino 
+( Local Variables get preference in that case )

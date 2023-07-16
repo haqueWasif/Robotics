@@ -1,0 +1,7 @@
+Variable Types:
+-> Integer
+-> Float
+-> Char
+-> String
+
+# In Arduino maximum 2 digits are printed in case of float after decimal

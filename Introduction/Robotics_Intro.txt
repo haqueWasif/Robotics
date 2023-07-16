@@ -1,0 +1,58 @@
+What is a Robot ?
+-> Machine
+-> Able to sense and manipulate their environment
+-> Programmable
+-> Able to process data
+-> Autonomous or semi-autonomous
+-> Intelligent behaviour ( Autonomous )
+
+Types of Robot
+-> Humanoid Robot
+-> Mechanical Arm
+-> Flying Robot
+-> Soccer Robot
+-> Home Automation
+
+# Not all machines are robot
+-> Criteria which determines it is if they are programmable or not 
+
+What is Robotics?
+-> Interdisciplinary Branch of Science and Engineering
+-> Deals with design, construction, operations and use of 
+
+How does a machine work?
+-> Input ==> Process ==> Output 
+
+A Typical Robot
+-> Input ( Sensor )
+-> Process ( Processor )
+-> Output ( Actuator )
+
+Sensor - senses the data
+-> Temperature, Sonar, Flame, Color, Water Level, Finger Print, Motion, Gas, IR
+
+Types of Sensors
+-> Digital (Flame)
+-> Analog (Sonar)
+
+Processor - proess the data
+-> Arduino ( Microcontroller based on an open-source device )
+-> Raspberry PI  
+
+Arduino vs Raspberry PI
+-> Programmed using c++ and Programmed using python
+-> Have no processor and Have processor
+-> Does not supports input device connection and Supports input device connection
+
+# So Raspberry PI is more advanced
+
+Actuator - performs an action
+-> Converts electrical signal into physical gesture like heat, sound, motion and electricity etc
+
+Q3. How are Robots programmed to perform tasks ?
+-> Robots are programmed to perform tasks by receiving inputs from sensors, processing them in a central processing unit (CPU), and carrying out the desired action through mechanical actions. The sensory inputs can be anything from smell, touch, visual differences, etc. The CPU processes the input quantity, searches for the corresponding function to perform from the previously-fed or programmed instruction set, and then sends the signal on to the output port1
+
+Q9. What are the potential applications of robots in healthcare ?
+-> Robots have a wide range of potential applications in healthcare. They can be used for various purposes such as telepresence, surgery, drug development and production, drug dispensing, medical transportation, sanitation, and rehabilitation1. Robots can assist doctors, nurses, caregivers, and patients in rural, remote, or infectious areas, and help them with examination, treatment, testing, and quality control1. Robots can also perform tasks more quickly and accurately, and reach places where the human hand can’t. During the COVID-19 pandemic, robots have been used to reduce pathogen exposure and provide medicines, food, vital signs, and medical reports to patients1.
+
+

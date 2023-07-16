@@ -1,0 +1,13 @@
+Operators:
+-> Arithmetic, Comparison, Boolean, BitWise
+
+BitWise:
+byte x = 0b00001111; // x is assigned the binary value 00001111
+byte y = 0b11110000; // y is assigned the binary value 11110000
+
+byte z = x & y; // z is assigned the value of x AND y (00000000)
+z = x | y; // z is assigned the value of x OR y (11111111)
+z = x ^ y; // z is assigned the value of x XOR y (11111111)
+z = ~x; // z is assigned the value of NOT x (11110000)
+z = x << 2; // z is assigned the value of x shifted left by 2 positions (00111100)
+z = x >> 2; // z is assigned the value of x shifted right by 2 positions (00000011)
